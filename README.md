@@ -1,4 +1,5 @@
-<h1><img src="https://github.com/Ksengine/robinson/raw/master/icon.svg" width="32" height="32">robinson</h1>
+<img align="left" width="80" height="80" src="https://github.com/Ksengine/robinson/raw/master/icon.svg" width="32" height="32" padx="10">
+<h1>Robinson</h1>
 
 Tiny pyhton (cython) HTML layout engine with cairo surface rendering support
 
