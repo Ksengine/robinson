@@ -1,6 +1,4 @@
-![robinson](https://raw.githubusercontent.com/gooofy/robinson/master/icon.svg)
-
-# robinson
+<img src="https://github.com/Ksengine/robinson/raw/master/icon.svg" width="32" height="32"><h1>robinson</h1>
 
 Tiny pyhton (cython) HTML layout engine with cairo surface rendering support
 
