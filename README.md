@@ -1,6 +1,8 @@
-# robinson
-Tiny pyhton (cython) HTML layout engine with cairo surface rendering support
+![robinson](https://raw.githubusercontent.com/gooofy/robinson/master/icon.svg)
 
+# robinson
+
+Tiny pyhton (cython) HTML layout engine with cairo surface rendering support
 
 tiny html+css renderer, based on mbrubeck's rendering engine 
 
@@ -19,3 +21,4 @@ two sample images of what it can do (rendered from the test/ folder):
 
 ![splash screen](https://raw.githubusercontent.com/gooofy/robinson/master/splash.png)
 
+<h6><div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></h6>
